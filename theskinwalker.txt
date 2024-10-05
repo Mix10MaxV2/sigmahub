@@ -1,0 +1,247 @@
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Window = Rayfield:CreateWindow({
+   Name = "SIGMAHUB",
+   LoadingTitle = "Max Ist GAY",
+   LoadingSubtitle = "by Mix10Max",
+   ConfigurationSaving = {
+      Enabled = true,
+      FolderName = nil, -- Create a custom folder for your hub/game
+      FileName = "Sigma Hub"
+   },
+   Discord = {
+      Enabled = false,
+      Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD
+      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+   },
+   KeySystem = true, -- Set this to true to use our key system
+   KeySettings = {
+      Title = "key",
+      Subtitle = "Key System",
+      Note = "No method of obtaining the key is provided",
+      FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
+      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+      GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+      Key = {"max420"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+   }
+})
+local Tab = Window:CreateTab("Player") 
+local Button = Tab:CreateButton({
+   Name = "SKINWALKER ESP",
+   Callback = function()
+   local character = workspace.Alive.Skinny -- Your custom character
+local player = game:GetService("Players").LocalPlayer
+local camera = game:GetService("Workspace").CurrentCamera
+local targetPart = character:FindFirstChild("HumanoidRootPart") -- Change this to the part you want to measure distance to
+
+-- Create lines to represent bones
+local headToTorso = Drawing.new('Line')
+local torsoToLeftHand = Drawing.new('Line')
+local torsoToRightHand = Drawing.new('Line')
+local torsoToLeftFoot = Drawing.new('Line')
+local torsoToRightFoot = Drawing.new('Line')
+
+-- Create the square (box) for Box ESP
+local box = Drawing.new('Square')
+box.Thickness = 2
+box.Color = Color3.fromRGB(255, 0, 0)
+box.Filled = false
+box.Transparency = 0.9
+
+-- Create the text for the name
+local nameTag = Drawing.new('Text')
+nameTag.Text = "SKINWALKER" -- Name displayed
+nameTag.Color = Color3.new(1, 0, 0)
+nameTag.Outline = true
+nameTag.OutlineColor = Color3.new(0, 0, 0)
+nameTag.Center = true
+nameTag.Size = 20
+nameTag.Transparency = 0.9
+
+-- Create a text object to display the distance
+local distanceText = Drawing.new('Text')
+distanceText.Color = Color3.new(1, 1, 1) -- White text color
+distanceText.Outline = true
+distanceText.OutlineColor = Color3.new(0, 0, 0) -- Black outline for visibility
+distanceText.Size = 20
+distanceText.Center = true
+distanceText.Transparency = 0.9
+
+-- Update ESP and distance every frame
+game:GetService("RunService").RenderStepped:Connect(function()
+    if character and character:FindFirstChild("HumanoidRootPart") and character:FindFirstChild("Head") then
+        -- Fetch important body parts
+        local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
+        local head = character:FindFirstChild("Head")
+        local leftHand = character:FindFirstChild("handclaws_low")
+        local rightHand = character:FindFirstChild("handclaws_low")
+        local leftFoot = character:FindFirstChild("footclaws_low")
+        local rightFoot = character:FindFirstChild("footclaws_low")
+
+        -- Convert 3D positions to 2D screen positions
+        local headScreenPos, headOnScreen = camera:WorldToViewportPoint(head.Position)
+        local torsoScreenPos, torsoOnScreen = camera:WorldToViewportPoint(humanoidRootPart.Position)
+        local leftHandScreenPos, leftHandOnScreen = camera:WorldToViewportPoint(leftHand.Position)
+        local rightHandScreenPos, rightHandOnScreen = camera:WorldToViewportPoint(rightHand.Position)
+        local leftFootScreenPos, leftFootOnScreen = camera:WorldToViewportPoint(leftFoot.Position)
+        local rightFootScreenPos, rightFootOnScreen = camera:WorldToViewportPoint(rightFoot.Position)
+
+        -- Update bone ESP
+        -- Update head-to-torso bone line
+        if headOnScreen and torsoOnScreen then
+            headToTorso.From = Vector2.new(headScreenPos.X, headScreenPos.Y)
+            headToTorso.To = Vector2.new(torsoScreenPos.X, torsoScreenPos.Y)
+            headToTorso.Color = Color3.fromRGB(255, 255, 255)
+            headToTorso.Thickness = 2
+            headToTorso.Visible = true
+        else
+            headToTorso.Visible = false
+        end
+
+        -- Update torso-to-left-hand bone line
+        if torsoOnScreen and leftHandOnScreen then
+            torsoToLeftHand.From = Vector2.new(torsoScreenPos.X, torsoScreenPos.Y)
+            torsoToLeftHand.To = Vector2.new(leftHandScreenPos.X, leftHandScreenPos.Y)
+            torsoToLeftHand.Color = Color3.fromRGB(255, 255, 255)
+            torsoToLeftHand.Thickness = 2
+            torsoToLeftHand.Visible = true
+        else
+            torsoToLeftHand.Visible = false
+        end
+
+        -- Update torso-to-right-hand bone line
+        if torsoOnScreen and rightHandOnScreen then
+            torsoToRightHand.From = Vector2.new(torsoScreenPos.X, torsoScreenPos.Y)
+            torsoToRightHand.To = Vector2.new(rightHandScreenPos.X, rightHandScreenPos.Y)
+            torsoToRightHand.Color = Color3.fromRGB(255, 255, 255)
+            torsoToRightHand.Thickness = 2
+            torsoToRightHand.Visible = true
+        else
+            torsoToRightHand.Visible = false
+        end
+
+        -- Update torso-to-left-foot bone line
+        if torsoOnScreen and leftFootOnScreen then
+            torsoToLeftFoot.From = Vector2.new(torsoScreenPos.X, torsoScreenPos.Y)
+            torsoToLeftFoot.To = Vector2.new(leftFootScreenPos.X, leftFootScreenPos.Y)
+            torsoToLeftFoot.Color = Color3.fromRGB(255, 255, 255)
+            torsoToLeftFoot.Thickness = 2
+            torsoToLeftFoot.Visible = true
+        else
+            torsoToLeftFoot.Visible = false
+        end
+
+        -- Update torso-to-right-foot bone line
+        if torsoOnScreen and rightFootOnScreen then
+            torsoToRightFoot.From = Vector2.new(torsoScreenPos.X, torsoScreenPos.Y)
+            torsoToRightFoot.To = Vector2.new(rightFootScreenPos.X, rightFootScreenPos.Y)
+            torsoToRightFoot.Color = Color3.fromRGB(255, 255, 255)
+            torsoToRightFoot.Thickness = 2
+            torsoToRightFoot.Visible = true
+        else
+            torsoToRightFoot.Visible = false
+        end
+
+        -- Update Box ESP and Name
+        if torsoOnScreen then
+            -- Dynamically scale box size based on distance (closer = larger, farther = smaller)
+            local distance = (camera.CFrame.Position - humanoidRootPart.Position).Magnitude
+            local scaleFactor = math.clamp(1000 / distance, 50, 150) -- Adjust these values to control min/max sizes
+
+            -- Update box position and size
+            box.Size = Vector2.new(scaleFactor, scaleFactor)
+            box.Position = Vector2.new(torsoScreenPos.X - box.Size.X / 2, torsoScreenPos.Y - box.Size.Y / 2)
+            box.Visible = true
+
+            -- Update name tag position above the box
+            nameTag.Position = Vector2.new(torsoScreenPos.X, torsoScreenPos.Y - box.Size.Y / 2 - 15) -- 15 pixels above the box
+            nameTag.Visible = true
+
+            -- Update distance meter
+            local distanceInMeters = math.floor(distance) -- Rounding the distance
+            distanceText.Text = "Distance: " .. distanceInMeters .. "m"
+            distanceText.Position = Vector2.new(torsoScreenPos.X, torsoScreenPos.Y + box.Size.Y / 2 + 10) -- Position it below the box
+            distanceText.Visible = true
+        else
+            box.Visible = false
+            nameTag.Visible = false
+            distanceText.Visible = false
+        end
+    else
+        -- Hide ESP when parts are missing
+        headToTorso.Visible = false
+        torsoToLeftHand.Visible = false
+        torsoToRightHand.Visible = false
+        torsoToLeftFoot.Visible = false
+        torsoToRightFoot.Visible = false
+        box.Visible = false
+        nameTag.Visible = false
+        distanceText.Visible = false
+    end
+end)
+
+   end,
+})
+local Slider1 = Tab:CreateSlider({
+   Name = "FLASHLIGHT POWER",
+   Range = {0, 500},
+   Increment = 10,
+   Suffix = "yes",
+   CurrentValue = 10,
+   Flag = "Slider1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
+   Callback = function(Value)
+       game:GetService("Players").LocalPlayer.Backpack.Flashlight.LightPart.Light.Brightness = Value
+       game:GetService("Players").LocalPlayer.Backpack.Flashlight.LightPart.Light.Range = Value
+   end,
+})
+local Button = Tab:CreateButton({
+   Name = "INFINITE STAMMINA",
+   Callback = function()
+   while true do
+   wait(0.9)
+    game.Players.LocalPlayer.Character.Stamina.Value = 100
+   end
+
+   end,
+})
+local Button = Tab:CreateButton({
+   Name = "INFINITE HEALTH",
+   Callback = function()
+   while true do
+   wait(0.3)
+    game.Players.LocalPlayer.Character.Humanoid.Health = 100
+   end
+
+   end,
+})
+local Button = Tab:CreateButton({
+   Name = "ALL PASSSES",
+   Callback = function()
+   -- Get the LocalPlayer
+local player = game.Players.LocalPlayer
+
+-- Check if the Gamepasses folder exists, if not create it
+if not player:FindFirstChild("Gamepasses") then
+    local gamepassesFolder = Instance.new("Folder") -- Create a new Folder
+    gamepassesFolder.Name = "Gamepasses" -- Set the name
+    gamepassesFolder.Parent = player -- Set the parent to LocalPlayer
+end
+
+-- Create the VIP folder
+local vipFolder = Instance.new("Folder")
+vipFolder.Name = "VIP" -- Set the name for the VIP folder
+vipFolder.Parent = player.Gamepasses -- Set the parent to the Gamepasses folder
+
+-- Create the SixthSense folder
+local sixthSenseFolder = Instance.new("Folder")
+sixthSenseFolder.Name = "SixthSense" -- Set the name for the SixthSense folder
+sixthSenseFolder.Parent = player.Gamepasses -- Set the parent to the Gamepasses folder
+
+-- Create the HeadLight folder
+local headLightFolder = Instance.new("Folder")
+headLightFolder.Name = "HeadLight" -- Set the name for the HeadLight folder
+headLightFolder.Parent = player.Gamepasses -- Set the parent to the Gamepasses folder
+
+print("Folders created: VIP, SixthSense, HeadLight")
+
+   end,
+})
