@@ -1,0 +1,1131 @@
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "PickUps",
+    [2] = "Aptechka Individual'naya-2 (AI-2)",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 6105,
+    [2] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(1)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Aptechka Individual'naya-2 (AI-2)", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
