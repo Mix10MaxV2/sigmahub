@@ -1129,3 +1129,8 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+repeat
+    wait()  
+until game:IsLoaded() 
+game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId,game.JobId) 
+--diconnect and reconnect into the same server
