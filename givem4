@@ -1,0 +1,40 @@
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 3003,
+    [2] = getNil("Colt M4A1 SOPMOD Block I", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "Colt M4A1 SOPMOD Block I",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 3003,
+    [2] = getNil("Colt M4A1 SOPMOD Block I", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("Colt M4A1 SOPMOD Block I", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
