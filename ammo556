@@ -1,0 +1,844 @@
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45mm Ammo",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 5001,
+    [2] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45mm Ammo", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer(unpack(args))
+repeat
+    wait()  
+until game:IsLoaded() 
+game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId,game.JobId) 
