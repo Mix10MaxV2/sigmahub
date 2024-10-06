@@ -1,0 +1,2639 @@
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
+wait(0.5)
+--mags
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = false,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+local args = {
+    [1] = "PickUps",
+    [2] = "5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd",
+    [3] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("GetObject"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("MagCheck"):InvokeServer(unpack(args))
+wait(0.5)
+function getNil(name,class) for _,v in next, getnilinstances() do if v.ClassName==class and v.Name==name then return v;end end end
+
+local args = {
+    [1] = 4009,
+    [2] = getNil("5.56x45 X-Products X-15 Skeletonized AR-15 Drum 50rnd", "Model"),
+    [3] = true,
+    [4] = false
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("InvAdd"):InvokeServer(unpack(args))
+wait(0.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Connections"):WaitForChild("Containers"):InvokeServer()
