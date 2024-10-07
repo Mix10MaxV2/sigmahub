@@ -1,0 +1,159 @@
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Window = Rayfield:CreateWindow({
+    Name = "ARGON-ENGINE",
+    LoadingTitle = "Made for your Enjoyment.",
+    LoadingSubtitle = "by Mix10Max",
+    ConfigurationSaving = {
+       Enabled = true,
+       FolderName =  nil, -- Create a custom folder for your hub/game
+       FileName = "Argon Engine"
+    },
+    Discord = {
+       Enabled = false,
+       Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD
+       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+    },
+    KeySystem = true, -- Set this to true to use our key system
+    KeySettings = {
+       Title = "MAIN",
+       Subtitle = "Key System",
+       Note = "PRIVATE FOR NOW",
+       FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
+       SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+       GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+       Key = {"argontech.cc"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+    }
+ })
+ Rayfield:Notify({
+    Title = "Enjoy",
+    Content = "Have fun with this script but remember its still early development",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { -- Notification Buttons
+       Ignore = {
+          Name = "Okay!",
+          Callback = function()
+          print("The user tapped Okay!")
+       end
+    },
+ },
+ })
+ local Tab = Window:CreateTab("Local Player") 
+local Section = Tab:CreateSection("Visuals")
+local Toggle = Tab:CreateToggle({
+   Name = "Nightvision",
+   CurrentValue = false,
+   Flag = "Toggle1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
+   Callback = function(Value)
+   game:GetService("Lighting").NightVisionOverlayPulsar.Enabled = Value
+   end,
+})
+local Section = Tab:CreateSection("Player")
+
+ local Tab = Window:CreateTab("VISUALS / ASSISTANTS") 
+ local Section = Tab:CreateSection("ESP")
+local Button = Tab:CreateButton({
+   Name = "Run ESP",
+   Callback = function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/esp'))()
+   end,
+})
+ local Tab = Window:CreateTab("ITEMS")
+  local Section = Tab:CreateSection("HEALS") 
+ local Button = Tab:CreateButton({
+   Name = "GIVE APTECHKA MEDKITS",
+   Callback = function()
+     Rayfield:Notify({
+    Title = "ATTENTION",
+    Content = "ALLOW UP TO 1 MIN PLAYER WILL AUTOMATICLY REJOIN",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { -- Notification Buttons
+       Ignore = {
+          Name = "Okay!",
+          Callback = function()
+          print("The user tapped Okay!")
+       end
+    },
+ },
+ })
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/givemed'))()
+   end,
+})
+ local Section = Tab:CreateSection("M4 RELATED")
+local Button = Tab:CreateButton({
+   Name = "GET M4",
+   Callback = function()
+         Rayfield:Notify({
+    Title = "ATTENTION",
+    Content = "ALLOW UP TO 1 MIN PLAYER WILL AUTOMATICLY REJOIN",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { -- Notification Buttons
+       Ignore = {
+          Name = "Okay!",
+          Callback = function()
+          print("The user tapped Okay!")
+       end
+    },
+ },
+ })
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/givem4'))()
+   end,
+})
+local Button = Tab:CreateButton({
+   Name = "GET M4 MAG",
+   Callback = function()
+            Rayfield:Notify({
+    Title = "ATTENTION",
+    Content = "ALLOW UP TO 1 MIN PLAYER WILL AUTOMATICLY REJOIN",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { -- Notification Buttons
+       Ignore = {
+          Name = "Okay!",
+          Callback = function()
+          print("The user tapped Okay!")
+       end
+    },
+ },
+ })
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/magm4'))()
+   end,
+})
+local Button = Tab:CreateButton({
+   Name = "GET 5,56 AMMO (SPAM THEN REJOIN)",
+   Callback = function()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/ammo556fix'))()
+     wait(45)
+     game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId,game.JobId) 
+
+   end,
+})
