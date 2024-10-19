@@ -30,62 +30,38 @@ do
     })
 
 
-    local Hitbox = Tabs.Main:AddToggle("MyHitbox", {Title = "Hitbox extender", Default = false })
-
-    Hitbox:OnChanged(function()
-        -- Hitbox code hier!!
-    end)
-
-    Options.MyHitbox:SetValue(false)
-
-    local TColorpicker = Tabs.Main:AddColorpicker("TransparencyColorpicker", {
-        Title = "Hitbox color",
-        Transparency = 0,
-        Default = Color3.fromRGB(255, 95, 95)
-    })
-
-    TColorpicker:OnChanged(function()
-        
-        print(
-            "TColorpicker changed:", TColorpicker.Value,
-            "Transparency:", TColorpicker.Transparency
-        )
-    end)
     
-    local Slider = Tabs.Main:AddSlider("Slider", {
-        Title = "Hitbox size",
-        Default = 1,
-        Min = 0,
-        Max = 10,
-        Rounding = 1,
-        Callback = function(Value)
-           HitboxSize = Vector3.new(Value,Value,Value)
-           print("HITBOXE SIZE IS NOW ", Value)
+    Tabs.Main:AddButton({
+        Title = "Silent Aim",
+        Description = "Loads The Silent aim",
+        Callback = function()
+            Window:Dialog({
+                Title = "WARNING",
+                Content = "RIGHTNOW THIS CANNOT BE UNLOADED!",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                           loadstring(game:HttpGet("https://raw.githubusercontent.com/Mix10MaxV2/sigmahub/refs/heads/main/extender"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
         end
     })
-    if getgenv().c then getgenv().c:Disconnect() end
 
-getgenv().c = game:GetService("RunService").RenderStepped:Connect(function()
+  
+  
 
-    for _,v in pairs(workspace:GetChildren()) do
+   
 
-       if v:IsA("BasePart") and v.Color == Color3.new(1,0,0) then
-
-          v.Transparency = TColorpicker.Transparency
-          v.Color = TColorpicker.Value
-          v.Size = HitboxSize
-
-       end
-
-    end    
-
-end)
-
-    Slider:OnChanged(function(Value)
-        print("Slider changed:", Value)
-    end)
-
-    Slider:SetValue(1)
+   
 
 
 
@@ -98,53 +74,74 @@ game.StarterGui:SetCore("SendNotification", {
    Duration = 5
 })
 
--- Load the ESP library and turn it on
-local esp = loadstring(game:HttpGet("https://pastebin.com/raw/ZLfeQchv"))()
-esp:Toggle(false)
+   local RunService = game:GetService("RunService")
 
--- Configure ESP settings
-esp.Boxes   = true
-esp.Names   = false
-esp.Tracers = true
-esp.Players = false
+local highlightEnabled = false  -- Initial state of highlights
 
--- Add an object listener to the workspace to detect enemy models
-esp:AddObjectListener(workspace, {
-   Name = "soldier_model",
-   Type = "Model",
-   Color = Color3.fromRGB(48,0,211),
+-- Function to toggle highlight state
+local function toggleHighlights()
+    highlightEnabled = not highlightEnabled
+end
 
-   -- Specify the primary part of the model as the HumanoidRootPart
-   PrimaryPart = function(obj)
-       local root
-       repeat
-           root = obj:FindFirstChild("HumanoidRootPart")
-           task.wait()
-       until root
-       return root
-   end,
+-- Function to add or update Highlight to each soldier_model
+local function updateHighlights()
+    if not highlightEnabled then
+        -- If highlights are disabled, remove all existing highlights
+        for _, model in pairs(game.Workspace:GetChildren()) do
+            if model.Name == "soldier_model" and model:IsA("Model") then
+                local highlight = model:FindFirstChildOfClass("Highlight")
+                if highlight then
+                    highlight:Destroy()  -- Remove highlight if highlights are disabled
+                end
+            end
+        end
+        return  -- Exit the function if highlights are disabled
+    end
 
-   -- Use a validator function to ensure that models do not have the "friendly_marker" child
-   Validator = function(obj)
-       task.wait(1)
-       if obj:FindFirstChild("friendly_marker") then
-           return false
-       end
-       return true
-   end,
+    for _, model in pairs(game.Workspace:GetChildren()) do
+        if model.Name == "soldier_model" and model:IsA("Model") then
+            -- Check if the model has a child named fpv_rig
+            if not model:FindFirstChild("fpv_rig") then
+                -- Check if Highlight already exists
+                local highlight = model:FindFirstChildOfClass("Highlight")
+                if not highlight then
+                    highlight = Instance.new("Highlight")
+                    highlight.Parent = model
+                end
+                
+                -- Check for the friendly_marker child
+                local friendlyMarker = model:FindFirstChild("friendly_marker")
+                if friendlyMarker then
+                    -- Set the highlight color to green
+                    highlight.FillColor = Color3.fromRGB(0, 255, 0)  -- Green color
+                    highlight.OutlineColor = Color3.fromRGB(0, 200, 0)  -- Optional: Darker green outline
+                else
+                    -- Set a default color for models without friendly_marker
+                    highlight.FillColor = Color3.fromRGB(255, 0, 0)  -- Example: Red color for no friendly_marker
+                    highlight.OutlineColor = Color3.fromRGB(200, 0, 0)  -- Optional: Darker red outline
+                end
+                highlight.Enabled = true  -- Ensure highlight is enabled
+            else
+                -- If fpv_rig exists, ensure highlight is not present
+                local highlight = model:FindFirstChildOfClass("Highlight")
+                if highlight then
+                    highlight:Destroy()  -- Remove highlight if fpv_rig is present
+                end
+            end
+        end
+    end
+end
 
-   -- Set a custom name to use for the enemy models
-   CustomName = "",
+-- Connect the function to RenderStepped
+RunService.RenderStepped:Connect(updateHighlights)
 
-   -- Enable the ESP for enemy models
-   IsEnabled = "enemy"
-})
+-- Example usage: toggle highlights when a key is pressed (e.g., "H")
+game:GetService("UserInputService").InputBegan:Connect(function(input, gameProcessed)
+    if input.KeyCode == Enum.KeyCode.H and not gameProcessed then
+        toggleHighlights()
+    end
+end)
 
--- Enable the ESP for enemy models
-esp.enemy = true
-
--- Wait for the game to load fully before applying hitboxes
-task.wait(1)
 
     local ESP = Tabs.Visuals:AddToggle("MyESP", {Title = "ESP", Default = false })
 
@@ -152,27 +149,22 @@ task.wait(1)
        ESP:OnChanged(function()
 
         if ESP.Value == true then
-        esp:Toggle(true)
+        highlightEnabled = true
         else
-        esp:Toggle(false)
+        highlightEnabled = false
         end
         
     end)
 
     Options.MyESP:SetValue(false)
 
-    local ESPfunctions = Tabs.Visuals:AddDropdown("MyESPfunctions", {
-        Title = "ESP functions",
-        Values = {"Box", "Skeleton", "Health", "Distance", "Name", "Glow", "Snapline", "Arrows"},
-        Multi = true,
-        Default = {"Box", "Skeleton", "Health", "Distance", "Name"},
-    })
+
+
 
     local Chams = Tabs.Visuals:AddToggle("Mychams", {Title = "Chams", Default = false })
 
 
        Chams:OnChanged(function()
-        -- Chams code hier
     end)
 
     local ChamsColorpicker = Tabs.Visuals:AddColorpicker("ChamsColorpicker", {
