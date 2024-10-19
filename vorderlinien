@@ -1,0 +1,221 @@
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
+
+local Window = Fluent:CreateWindow({
+    Title = "ARGON FORNTLINES " .. "V1",
+    SubTitle = "by NIGHTFALL INC",
+    TabWidth = 160,
+    Size = UDim2.fromOffset(580, 460),
+    Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
+    Theme = "Dark",
+    MinimizeKey = Enum.KeyCode.Delete-- Used when theres no MinimizeKeybind
+})
+
+--Fluent provides Lucide Icons https://lucide.dev/icons/ for the tabs, icons are optional
+local Tabs = {
+    Main = Window:AddTab({ Title = "Aim", Icon = "crosshair" }),
+    Visuals = Window:AddTab({ Title = "Visuals", Icon = "eye" }),
+    Settings = Window:AddTab({ Title = "Settings", Icon = "settings" })
+}
+
+local Options = Fluent.Options
+
+do
+    Fluent:Notify({
+        Title = "Nightfall",
+        Content = "Warning!",
+        SubContent = "This Script is sill in BETA Expect bugs!!!", -- Optional
+        Duration = 5 -- Set to nil to make the notification not disappear
+    })
+
+
+    local Hitbox = Tabs.Main:AddToggle("MyHitbox", {Title = "Hitbox extender", Default = false })
+
+    Hitbox:OnChanged(function()
+        -- Hitbox code hier!!
+    end)
+
+    Options.MyHitbox:SetValue(false)
+
+    local TColorpicker = Tabs.Main:AddColorpicker("TransparencyColorpicker", {
+        Title = "Hitbox color",
+        Transparency = 0,
+        Default = Color3.fromRGB(255, 95, 95)
+    })
+
+    TColorpicker:OnChanged(function()
+        
+        print(
+            "TColorpicker changed:", TColorpicker.Value,
+            "Transparency:", TColorpicker.Transparency
+        )
+    end)
+    
+    local Slider = Tabs.Main:AddSlider("Slider", {
+        Title = "Hitbox size",
+        Default = 1,
+        Min = 0,
+        Max = 10,
+        Rounding = 1,
+        Callback = function(Value)
+           HitboxSize = Vector3.new(Value,Value,Value)
+           print("HITBOXE SIZE IS NOW ", Value)
+        end
+    })
+    if getgenv().c then getgenv().c:Disconnect() end
+
+getgenv().c = game:GetService("RunService").RenderStepped:Connect(function()
+
+    for _,v in pairs(workspace:GetChildren()) do
+
+       if v:IsA("BasePart") and v.Color == Color3.new(1,0,0) then
+
+          v.Transparency = TColorpicker.Transparency
+          v.Color = TColorpicker.Value
+          v.Size = HitboxSize
+
+       end
+
+    end    
+
+end)
+
+    Slider:OnChanged(function(Value)
+        print("Slider changed:", Value)
+    end)
+
+    Slider:SetValue(1)
+
+
+
+
+-- Send a notification saying that the script is loading
+game.StarterGui:SetCore("SendNotification", {
+   Title = "INFO",
+   Text = "ARGON ESP Loaded",
+   Icon = "",
+   Duration = 5
+})
+
+-- Load the ESP library and turn it on
+local esp = loadstring(game:HttpGet("https://pastebin.com/raw/ZLfeQchv"))()
+esp:Toggle(false)
+
+-- Configure ESP settings
+esp.Boxes   = true
+esp.Names   = false
+esp.Tracers = true
+esp.Players = false
+
+-- Add an object listener to the workspace to detect enemy models
+esp:AddObjectListener(workspace, {
+   Name = "soldier_model",
+   Type = "Model",
+   Color = Color3.fromRGB(48,0,211),
+
+   -- Specify the primary part of the model as the HumanoidRootPart
+   PrimaryPart = function(obj)
+       local root
+       repeat
+           root = obj:FindFirstChild("HumanoidRootPart")
+           task.wait()
+       until root
+       return root
+   end,
+
+   -- Use a validator function to ensure that models do not have the "friendly_marker" child
+   Validator = function(obj)
+       task.wait(1)
+       if obj:FindFirstChild("friendly_marker") then
+           return false
+       end
+       return true
+   end,
+
+   -- Set a custom name to use for the enemy models
+   CustomName = "",
+
+   -- Enable the ESP for enemy models
+   IsEnabled = "enemy"
+})
+
+-- Enable the ESP for enemy models
+esp.enemy = true
+
+-- Wait for the game to load fully before applying hitboxes
+task.wait(1)
+
+    local ESP = Tabs.Visuals:AddToggle("MyESP", {Title = "ESP", Default = false })
+
+
+       ESP:OnChanged(function()
+
+        if ESP.Value == true then
+        esp:Toggle(true)
+        else
+        esp:Toggle(false)
+        end
+        
+    end)
+
+    Options.MyESP:SetValue(false)
+
+    local ESPfunctions = Tabs.Visuals:AddDropdown("MyESPfunctions", {
+        Title = "ESP functions",
+        Values = {"Box", "Skeleton", "Health", "Distance", "Name", "Glow", "Snapline", "Arrows"},
+        Multi = true,
+        Default = {"Box", "Skeleton", "Health", "Distance", "Name"},
+    })
+
+    local Chams = Tabs.Visuals:AddToggle("Mychams", {Title = "Chams", Default = false })
+
+
+       Chams:OnChanged(function()
+        -- Chams code hier
+    end)
+
+    local ChamsColorpicker = Tabs.Visuals:AddColorpicker("ChamsColorpicker", {
+        Title = "Chams color",
+        Transparency = 0,
+        Default = Color3.fromRGB(190, 95, 255)
+    })
+end
+
+
+-- Addons:
+-- SaveManager (Allows you to have a configuration system)
+-- InterfaceManager (Allows you to have a interface managment system)
+
+-- Hand the library over to our managers
+SaveManager:SetLibrary(Fluent)
+InterfaceManager:SetLibrary(Fluent)
+
+-- Ignore keys that are used by ThemeManager.
+-- (we dont want configs to save themes, do we?)
+SaveManager:IgnoreThemeSettings()
+
+-- You can add indexes of elements the save manager should ignore
+SaveManager:SetIgnoreIndexes({})
+
+-- use case for doing it this way:
+-- a script hub could have themes in a global folder
+-- and game configs in a separate folder per game
+InterfaceManager:SetFolder("FluentScriptHub")
+SaveManager:SetFolder("FluentScriptHub/specific-game")
+
+InterfaceManager:BuildInterfaceSection(Tabs.Settings)
+SaveManager:BuildConfigSection(Tabs.Settings)
+
+
+Window:SelectTab(1)
+
+Fluent:Notify({
+    Title = "ARGON",
+    Content = "The script has been loaded.",
+    Duration = 8
+})
+
+-- You can use the SaveManager:LoadAutoloadConfig() to load a config
+-- which has been marked to be one that auto loads!
+SaveManager:LoadAutoloadConfig()
