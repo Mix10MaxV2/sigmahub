@@ -16,6 +16,7 @@ local Window = Fluent:CreateWindow({
 local Tabs = {
     Main = Window:AddTab({ Title = "Aim", Icon = "crosshair" }),
     Visuals = Window:AddTab({ Title = "Visuals", Icon = "eye" }),
+    MISC = Window:AddTab({ Title = "MISC", Icon = "crosshair" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" })
 }
 
@@ -55,7 +56,41 @@ do
             })
         end
     })
+ Tabs.MISC:AddButton({
+        Title = "Noclip",
+        Description = "Makes you Noclip",
+        Callback = function()
+            Window:Dialog({
+                Title = "WARNING",
+                Content = "For now u cant undo this!",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                          local folder = workspace:FindFirstChild("workspace") -- Replace with your folder's name
 
+if folder then
+    for _, child in ipairs(folder:GetDescendants()) do
+        if child:IsA("BasePart") then
+            child.CanCollide = false
+        end
+    end
+else
+    warn("Folder not found!")
+end
+
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
   
   
 
